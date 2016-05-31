@@ -35,13 +35,12 @@ This is how `mergelook.xlsm` looks like:
 ![mergelook.xlsm][mx]
 [mx]: https://raw.githubusercontent.com/sotirop/mergelook/baee1efd9dffa0a78cc01e50428f9cf4a846fec1/mergelook.png "mergelook.xlsm"
 
+In columns with header ``To``, you should put the recipients' email addresses. Multiple recipients per email (row) are supported. The same goes for the columns with ``Cc`` and ``Bcc`` headers.
+
 ### Sample email
 This is how a sample email looks like:
 ![Sample email][se]
 [se]: https://raw.githubusercontent.com/sotirop/mergelook/master/sample-email.png "Sample email"
-
-In rows with the ``To`` header, you should put the recipients' email addresses. Multiple recipients per email (row) are supported. The same goes for ``Cc`` and ``Bcc`` headers.
-
 ## Attention
 The code should not be used for production use. Before using it, put Outlook in Offline Mode using the following instructions:
 
