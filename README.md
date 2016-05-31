@@ -26,4 +26,4 @@ The code should not be used for production use. Before using it, put Outlook in 
 
 [wo]: https://raw.githubusercontent.com/sotirop/mergelook/master/Work-Offline.png "Work Offline"
 
-When the information in the `mergelook.xlsm` is complete, press the "Send Emails" button there and watch the Outlook Outbox folder filling in with messages. Open some messages to test if everything went OK. If you are happy, press the "Send All" in Outlook so all messages can leave for their destination.
+When the information in `mergelook.xlsm` is complete, press the "Send Emails" button there and watch the Outlook Outbox folder filling in with messages. Open some messages to test if everything went OK. If you are happy, press the "Send All" in Outlook so all messages can leave for their destination.
