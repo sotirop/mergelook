@@ -16,6 +16,10 @@ In order to use **mergelook**, you need to have MS Office installed. At least MS
 `message.oft` is the template of the email to be sent to multiple recipients.
 Special words in the template will be replaced with information in the `mergelook.xlsm` file.
 
+When you open `mergelook.xlsm`, you should press "Enable Content" so that the VBA script can be executed.
+![Enable Content][ec]
+[wo]: https://raw.githubusercontent.com/sotirop/mergelook/master/Work-Offline.png "Work Offline"
+
 ## Attention
 The code should not be used for production use. Before using it, put Outlook in Offline Mode using the following instructions:
 
@@ -23,7 +27,6 @@ The code should not be used for production use. Before using it, put Outlook in 
 2. Go to "Send / Receive" tab
 3. Enable "Work Offline" mode. This button should be pressed
 ![Work Offline][wo]
-
 [wo]: https://raw.githubusercontent.com/sotirop/mergelook/master/Work-Offline.png "Work Offline"
 
-When the information in `mergelook.xlsm` is complete, press the "Send Emails" button there and watch the Outlook Outbox folder filling in with messages. Open some messages to test if everything went OK. If you are happy, press the "Send All" in Outlook so all messages can leave for their destination.
+When the information in `mergelook.xlsm` is complete, press the "Send Emails" button in `mergelook.xlsm` and watch the Outbox folder in Outlook filling in with messages. Open some messages to test if everything went OK. If you are happy, press the "Send All" in Outlook so all messages can leave for their destination.
