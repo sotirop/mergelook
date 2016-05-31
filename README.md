@@ -27,10 +27,15 @@ This is how `message.oft` looks like:
 ![message.oft][mo]
 [mo]: https://raw.githubusercontent.com/sotirop/mergelook/master/message.png "message.oft"
 
+
+For each email, the ``___NAME___`` will be replaced with corresponding values in `mergelook.xlsm`: ``Barack``, ``Vladimir``, etc. Similarly, the ``___FILENAME___`` will be replaced with corresponding values in `mergelook.xlsm`: ``Barack.docx``, ``Vladimir.docx``, etc.
+
 ### `mergelook.xlsm`
 This is how `mergelook.xlsm` looks like:
 ![mergelook.xlsm][mx]
 [mx]: https://raw.githubusercontent.com/sotirop/mergelook/master/mergelook.png "mergelook.xlsm"
+
+In rows with the ``To`` header, you should put the recipients' email addresses. Multiple recipients per email (row) are supported. The same goes for ``Cc`` and ``Bcc`` headers.
 
 ## Attention
 The code should not be used for production use. Before using it, put Outlook in Offline Mode using the following instructions:
