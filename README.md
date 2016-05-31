@@ -33,7 +33,7 @@ For each email, the ``___NAME___`` will be replaced with corresponding values in
 ### `mergelook.xlsm`
 This is how `mergelook.xlsm` looks like:
 ![mergelook.xlsm][mx]
-[mx]: https://raw.githubusercontent.com/sotirop/mergelook/master/mergelook.png "mergelook.xlsm"
+[mx]: https://raw.githubusercontent.com/sotirop/mergelook/baee1efd9dffa0a78cc01e50428f9cf4a846fec1/mergelook.png "mergelook.xlsm"
 
 In rows with the ``To`` header, you should put the recipients' email addresses. Multiple recipients per email (row) are supported. The same goes for ``Cc`` and ``Bcc`` headers.
 
