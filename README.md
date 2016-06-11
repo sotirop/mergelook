@@ -4,7 +4,7 @@ Using **mergelook** you can send multiple emails, like using the mail merge feat
 
 ## More info
 
-There are times when you want to send more or less the same email -based on a template- to multiple recipients. MS Word in combination with MS Excel and MS Outlook offers this functionality, called Mail Merge. However, the functionality is limited to sending emails without attachments. Using **mergelook** you can send emails with attachments to multiple recipients.
+There are times when you want to send more or less the same email --based on a template-- to multiple recipients. MS Word in combination with MS Excel and MS Outlook offers this functionality, called Mail Merge. However, the functionality is limited to sending emails without attachments. Using **mergelook** you can send emails with attachments to multiple recipients.
 
 ## Instructions
 
