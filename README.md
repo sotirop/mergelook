@@ -6,7 +6,7 @@ Using **mergelook** you can send multiple emails, like using the mail merge feat
 
 There are times when you want to send a personalized email --based on common template-- to multiple recipients. MS Word in combination with Excel and Outlook offer this functionality, called Mail Merge. However, the functionality is limited to sending emails without attachments.
 
-With mergelook you can send personalized emails with attachments to multiple recipients, using MS Excel and Outlook. Enjoy!
+With **mergelook** you can send personalized emails with attachments to multiple recipients, using MS Excel and Outlook. Enjoy!
 
 ## Instructions
 
