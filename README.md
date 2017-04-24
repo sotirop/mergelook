@@ -19,8 +19,7 @@ In order to use **mergelook**, you need to have MS Office installed. At least MS
 Special words in the template will be replaced with information in the `mergelook.xlsm` file.
 
 When you open `mergelook.xlsm`, you should press "Enable Content" so that the VBA script can be executed
-![Enable Content][ec]
-[ec]: https://raw.githubusercontent.com/sotirop/mergelook/master/security-warning.png "Enable Content"
+![Enable Content](https://raw.githubusercontent.com/sotirop/mergelook/master/security-warning.png)
 
 
 ### `message.oft`
