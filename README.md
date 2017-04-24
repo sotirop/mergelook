@@ -20,7 +20,7 @@ Special words in the template will be replaced with information in the `mergeloo
 
 When you open `mergelook.xlsm`, you should press "Enable Content" so that the VBA script can be executed
 ![Enable Content][ec]
-[ec]: https://raw.githubusercontent.com/sotirop/mergelook/master/security-warning.png "Enable Content"
+[ec]: /security-warning.png "Enable Content"
 
 
 ### `message.oft`
