@@ -1,6 +1,6 @@
 # mergelook
 
-Using **mergelook** you can send multiple emails with attachments, using the same email template. It's like using the mail merge feature of MS Word, but each email can contain one or more attachments. This works only on MS Windows.
+Using **mergelook** you can send multiple emails with attachments, using the same email template. It's like using the mail merge feature of MS Word, but each email can contain one or more attachments. This works only on Microsoft Windows.
 
 ## More info
 
