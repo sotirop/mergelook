@@ -28,13 +28,13 @@ This is how `message.oft` looks like:
 ![message.oft](./images/message.png)
 
 
-For each email, the ``___NAME___`` will be replaced with corresponding values in `mergelook.xlsm`: ``Barack``, ``Vladimir``, etc. Similarly, the ``___FILENAME___`` will be replaced with corresponding values in `mergelook.xlsm`: ``Barack.docx``, ``Vladimir.docx``, etc.
+For each email, the ``___NAME___`` will be replaced with corresponding values in `mergelook.xlsm`: ``Donald``, ``Vladimir``, etc. Similarly, the ``___FILENAME___`` will be replaced with corresponding values in `mergelook.xlsm`: ``Donald.docx``, ``Vladimir.docx``, etc.
 
 ### `mergelook.xlsm`
 This is how `mergelook.xlsm` looks like:
 ![mergelook.xlsm](./images/mergelook.png)
 
-In columns with header ``To``, you should put the recipients' email addresses. Multiple recipients per email (row) are supported. The same goes for the columns with ``Cc`` and ``Bcc`` headers.
+In columns with header ``To``, you should put the recipients' email addresses. Multiple recipients per email (row) are supported. The same goes for the columns with ``Cc`` and ``Bcc`` headers. If for some emails you need to have a different Reply-To address, you can add one email address in the ``Reply-To`` column. The latter **does not** change the **From** email field.
 
 ### Sample email
 This is how a sample email looks like:
