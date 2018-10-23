@@ -133,3 +133,5 @@ directory; they all need to be together in the same folder.
 Answer: Check your filename carefully. Have you added the file
 extension, exactly? If mergelooks hits an error with a filename the
 macro stops attaching files to the rest of the emails.
+
+Another thing that might cause confusion is the following: In the particular example, there is `___FILENAME___ ` and `attachment` columns, both with the value `Donald.docx`. The `___FILENAME___` value will be used so that the string `Donald.docx` is mentioned in the email, while the `attachment` value will be used to attach the actual `Donald.docx` file in the corresponding email.
